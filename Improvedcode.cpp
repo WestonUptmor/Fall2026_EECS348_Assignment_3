@@ -1,3 +1,9 @@
+//EECS 348 Assignment 3
+//Program that sorts emails
+//Claude was used to help debug code
+//Weston G. Uptmor
+//10/1/2026
+
 #include <iostream>
 #include <vector>
 #include <string>
